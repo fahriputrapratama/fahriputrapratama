@@ -38,9 +38,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahriputrapratama&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
+
 <br/>
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriputrapratama&layout=compact&theme=light&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahriputrapratama&theme=light" alt="Profile Details" />
 </div>
 
 ### 🌱 Currently working on & Learning
