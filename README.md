@@ -40,12 +40,12 @@
 </div>
 <br/>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=light&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriputrapratama&layout=compact&theme=light&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ### 🌱 Currently working on & Learning
-- 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **PHP Native**.
-- 🌱 Saya sedang mendalami Framework **Laravel** atau **React** (Rencana masa depan).
+- 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **Web Native**.
+- 🌱 Saya sedang mendalami Framework **Laravel** atau **Flask** (Rencana masa depan).
 - 👯 Saya terbuka untuk kolaborasi projek **Open Source** pemula.
 - ⚡ Fun fact: Saya bisa ngoding berjam-jam ditemani kopi! ☕
 
@@ -53,10 +53,10 @@
 
 <div align="center"> 
   <h3>📫 Connect with Me</h3>
-  <a href="mailto:emailmu@contoh.com">
+  <a href="mailto:fahripratama14205@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="LINK_LINKEDIN_ANDA">
+  <a href="www.linkedin.com/in/fahri-pratama-36a0ba294">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
