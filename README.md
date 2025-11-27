@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/fahriputrapratana">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+%26+Java+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Web+Development;Python+%26+Java+Enthusiast;Always+Learning" alt="Typing SVG" />
     </a>
   </p>
 
@@ -47,7 +47,7 @@
 
 ### 🌱 Currently working on & Learning
 - 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **Web Native**.
-- 🌱 Saya sedang mendalami Framework **Laravel** atau **Flask** (Rencana masa depan).
+- 🌱 Saya sedang mendalami Framework **Laravel** atau **Flask**.
 - 👯 Saya terbuka untuk kolaborasi projek **Open Source** pemula.
 - ⚡ Fun fact: Saya bisa ngoding berjam-jam ditemani kopi! ☕
 
