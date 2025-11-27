@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fahriputrapratama/fahriputrapratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'%20m%20Fahri%20Pratama&descAlignY=51&descAlign=62"/>
 
-Here are some ideas to get you started:
+  ### 👨‍💻 Informatics Engineering Student @ Universitas Harkat Negeri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://github.com/USERNAME_GITHUB_ANDA">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+%26+Java+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+    </a>
+  </p>
+
+  ---
+
+  <p align="left"> 
+     Hai! Saya <b>Fahri Pratama</b>, seorang mahasiswa Teknik Informatika yang memiliki passion besar dalam pengembangan perangkat lunak dan teknologi web. Saya senang mengubah baris kode menjadi solusi nyata. Saat ini saya sedang fokus mendalami pengembangan Web dan Object-Oriented Programming.
+  </p>
+
+</div>
+
+### 🛠️ Languages and Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+<br/>
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
+
+### 🌱 Currently working on & Learning
+- 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **PHP Native**.
+- 🌱 Saya sedang mendalami Framework **Laravel** atau **React** (Rencana masa depan).
+- 👯 Saya terbuka untuk kolaborasi projek **Open Source** pemula.
+- ⚡ Fun fact: Saya bisa ngoding berjam-jam ditemani kopi! ☕
+
+<br/>
+
+<div align="center"> 
+  <h3>📫 Connect with Me</h3>
+  <a href="mailto:emailmu@contoh.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="LINK_LINKEDIN_ANDA">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
