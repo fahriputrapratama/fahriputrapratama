@@ -38,6 +38,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fahriputrapratama&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
+<br/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=light&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
 
 ### 🌱 Currently working on & Learning
 - 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **PHP Native**.
