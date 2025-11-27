@@ -5,7 +5,7 @@
   ### 👨‍💻 Informatics Engineering Student @ Universitas Harkat Negeri
 
   <p align="center">
-    <a href="https://github.com/USERNAME_GITHUB_ANDA">
+    <a href="https://github.com/fahriputrapratama">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+%26+Java+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
     </a>
   </p>
@@ -36,8 +36,8 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahriputrapratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriputrapratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 ### 🌱 Currently working on & Learning
