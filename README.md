@@ -1,59 +1,71 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Fahri Pratama! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'%20m%20Fahri%20Pratama&descAlignY=51&descAlign=62"/>
+<p align="center">
+  <b>Informatics Engineering Student at Universitas Harkat Negeri</b><br>
+  Creating solutions with Python, Java, and Web Technologies.
+</p>
 
-  ### 👨‍💻 Informatics Engineering Student @ Universitas Harkat Negeri
-
-  <p align="center">
-    <a href="https://github.com/fahriputrapratama">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Python+%26+Java+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-    </a>
-  </p>
-
-  ---
-
-  <p align="left"> 
-     Hai! Saya <b>Fahri Pratama</b>, seorang mahasiswa Teknik Informatika yang memiliki passion besar dalam pengembangan perangkat lunak dan teknologi web. Saya senang mengubah baris kode menjadi solusi nyata. Saat ini saya sedang fokus mendalami pengembangan Web dan Object-Oriented Programming.
-  </p>
-
-</div>
-
-### 🛠️ Languages and Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
-
-<br/>
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahriputrapratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriputrapratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
-
-### 🌱 Currently working on & Learning
-- 🔭 Saya sedang mengerjakan beberapa projek Web Sederhana menggunakan **PHP Native**.
-- 🌱 Saya sedang mendalami Framework **Laravel** atau **React** (Rencana masa depan).
-- 👯 Saya terbuka untuk kolaborasi projek **Open Source** pemula.
-- ⚡ Fun fact: Saya bisa ngoding berjam-jam ditemani kopi! ☕
-
-<br/>
-
-<div align="center"> 
-  <h3>📫 Connect with Me</h3>
+<p align="center">
+  <a href="https://github.com/fahriputrapratama?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Projects-blue?style=for-the-badge&logo=github">
+  </a>
   <a href="mailto:emailmu@contoh.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="LINK_LINKEDIN_ANDA">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+</p>
+
+<hr/>
+
+### 👨‍💻 About Me
+
+- 🎓 Saya saat ini menempuh pendidikan **Teknik Informatika**.
+- 💻 Fokus utama saya adalah **Web Development** dan **Object-Oriented Programming**.
+- 💡 Saya senang bereksperimen dengan **HTML, CSS, JS** untuk frontend dan **PHP/Python** untuk backend.
+- 🚀 Target saya tahun ini: Memperdalam framework dan berkontribusi di projek Open Source.
+
+---
+
+### 🛠️ My Tech Stack
+
+Saya membagi kemampuan teknis saya ke dalam beberapa kategori:
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Languages</b></td>
+    <td align="center" width="33%"><b>Frontend Web</b></td>
+    <td align="center" width="33%"><b>Backend & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,c&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode&theme=light" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🏆 Achievements & Top Languages
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahriputrapratama&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
+
+<br/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriputrapratama&layout=compact&theme=light&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<br/>
+
+---
+
+<p align="center">
+  <i>Terima kasih sudah mampir! Jangan ragu untuk melihat repository saya.</i>
+</p>
