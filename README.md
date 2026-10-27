@@ -5,7 +5,7 @@
   ### 👨‍💻 Informatics Engineering Student @ Universitas Harkat Negeri
 
   <p align="center">
-    <a href="https://github.com/fahriputrapratana">
+    <a href="https://github.com/fahriputrapratama">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334F7&center=true&vCenter=true&width=435&lines=Web+Development;Python+%26+Java+Enthusiast;Always+Learning" alt="Typing SVG" />
     </a>
   </p>
